@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=%231572B6&size=24&center=true&vCenter=true&width=500&height=45&lines=Master+of+Applied+Computing+Candidate;Passionate+about+Test+Automation;Experienced+in+Web+Development;Always+Learning+New+Technologies">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=%231572B6&size=24&center=true&vCenter=true&width=500&height=45&lines=Master+of+Applied+Computing;Test+Automation;Web+Development;">
   </a>
 </p>
 
@@ -12,19 +12,17 @@
 
 <br>
 
-- Dynamic and results-oriented with 2 years and 8 months of experience in Test Automation and Web Development.
-- Currently pursuing a Master's in Applied Computing at the University of Windsor, sharpening my skills in software engineering.
-- Skilled in Java, JavaScript, Python, and Linux, with a strong foundation in object-oriented software design.
+- Currently pursuing a Master's in Applied Computing at the University of Windsor.
 - Open to opportunities in Test Automation and Web Development, eager to bring my expertise to new and challenging projects.
+- Open to exploring new opportunities in Test Automation and Web Development.
 
 <br><br>
 
 
 - A dynamic and results-oriented Test Automation Engineer with 2 years and 8 months of professional experience.
-- Skilled in Java, JavaScript, Python, and Linux, with a strong understanding of object-oriented software design concepts.
-- Currently pursuing a Master's in Applied Computing at the University of Windsor, available for a 4- or 8-month internship starting in January 2025.
-- Experienced in leading functional and automation testing, developing robust automation scripts that reduce turnaround time by 50%.
-- Open to exploring new opportunities in Test Automation and Web Development
+- Skilled in Front-end and Back-end development with a strong understanding of Test Automation tools.
+- Available for a 4- or 8-month internship starting in January 2025.
+
 
 <br><br>
 
