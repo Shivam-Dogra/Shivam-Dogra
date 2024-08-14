@@ -1,4 +1,4 @@
-<h1 align="center"><b>Hello,  I'm  Shivam  Dogra </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"><b>Hello, I'm Shivam Dogra </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 ## <b> About Me </b>
 
@@ -11,7 +11,6 @@
 <br>
 
 - Currently pursuing a Master's in Applied Computing at the University of Windsor.
-- Open to opportunities in Test Automation and Web Development, eager to bring my expertise to new and challenging projects.
 - Open to exploring new opportunities in Test Automation and Web Development.
 - Skilled in Front-end and Back-end development with a strong understanding of Test Automation tools.
 - Available for a 4- or 8-month internship starting in January 2025.
