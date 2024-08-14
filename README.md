@@ -20,13 +20,13 @@
 ## <b> Projects </b>
 <br>
 
-- **UW Roommate Finder**: 
+**UW Roommate Finder**: 
 - Repository: [UW Roommate Finder](https://github.com/Shivam-Dogra/UW_RoommateFinder)
   
-- **Go Travel France**: 
+**Go Travel France**: 
 - Repository: [Go Travel France](https://github.com/Shivam-Dogra/GoTravelFrance)
 
-- **Mobile Plan Price Analysis**: 
+**Mobile Plan Price Analysis**: 
 - Backend Repository: [Mobile Plan Price Analysis (Backend)](https://github.com/Shivam-Dogra/MobilePlanPriceAnalysis)
 - Frontend Repository: [Mobile Plan Price Analysis (Frontend)](https://github.com/Shivam-Dogra/MobilePlanPriceAnalysis_Frontend)
 
