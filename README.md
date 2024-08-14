@@ -1,6 +1,6 @@
 <h1 align="center"><b>Hello, I'm Shivam Dogra </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-**About Me ** 🚀
+## <img src="https://media.giphy.com/media/4kBMliTfWfsY4/giphy.gif" width="35"><b> About Me 🚀 </b>
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
