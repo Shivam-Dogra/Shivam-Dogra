@@ -1,6 +1,6 @@
-<h1 align="center"><b>Hi, I'm Shivam Dogra</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"><b>Hello, I'm Shivam Dogra </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-**About Me** 🚀
+**About Me ** 🚀
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
@@ -16,26 +16,24 @@
 
 <br><br>
 
-
 - A dynamic and results-oriented Test Automation Engineer with 2 years and 8 months of professional experience.
 - Skilled in Front-end and Back-end development with a strong understanding of Test Automation tools.
 - Available for a 4- or 8-month internship starting in January 2025.
-
 
 <br><br>
 
 ## <img src="https://media.giphy.com/media/4kBMliTfWfsY4/giphy.gif" width="35"><b> Projects </b>
 <br>
 
-- **UW Roommate Finder**: A university roommate finding application.
-   - Repository: [UW Roommate Finder](https://github.com/Shivam-Dogra/UW_RoommateFinder)
+- **UW Roommate Finder**: 
+- Repository: [UW Roommate Finder](https://github.com/Shivam-Dogra/UW_RoommateFinder)
   
-- **Go Travel France**: An innovative Scavenger Hunt feature for enhancing tourism experiences across France.
-   - Repository: [Go Travel France](https://github.com/Shivam-Dogra/GoTravelFrance)
+- **Go Travel France**: 
+- Repository: [Go Travel France](https://github.com/Shivam-Dogra/GoTravelFrance)
 
-- **Mobile Plan Price Analysis**: A comprehensive mobile plan comparison platform.
-   - Backend Repository: [Mobile Plan Price Analysis (Backend)](https://github.com/Shivam-Dogra/MobilePlanPriceAnalysis)
-   - Frontend Repository: [Mobile Plan Price Analysis (Frontend)](https://github.com/Shivam-Dogra/MobilePlanPriceAnalysis_Frontend)
+- **Mobile Plan Price Analysis**: 
+- Backend Repository: [Mobile Plan Price Analysis (Backend)](https://github.com/Shivam-Dogra/MobilePlanPriceAnalysis)
+- Frontend Repository: [Mobile Plan Price Analysis (Frontend)](https://github.com/Shivam-Dogra/MobilePlanPriceAnalysis_Frontend)
 
 <br>
 
