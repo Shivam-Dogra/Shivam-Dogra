@@ -15,10 +15,10 @@
 - 💻 Skilled in **Front-end** and **Back-end** development with a strong understanding of **Test Automation** tools.
 - 🚀 Available for a **4- or 8-month internship** starting in **January 2025**.
 
-<br><br>
+<br>
 
 ## 🛠️ <b>Projects</b>
-<br>
+
 
 - **🌍 [UW Roommate Finder](https://github.com/Shivam-Dogra/UW_RoommateFinder)**:
   - Helping students find the perfect roommate at the University of Windsor.
@@ -91,7 +91,7 @@
 <br>
 
 ## 📊 GitHub Stats
-## <img src="https://media.giphy.com/media/YWUpgkYDpkj0O53do4/giphy.gif" width="30px"> **Top Languages**
+## **Top Languages**
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shivam-Dogra&layout=compact&theme=radical" alt="Top Languages" width="400"/>
