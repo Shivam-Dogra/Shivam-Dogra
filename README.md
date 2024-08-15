@@ -45,8 +45,6 @@
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
-
-<br>   
     
 ### **Front-End Development**:
 
@@ -56,15 +54,11 @@
 ![React](https://img.shields.io/badge/React%20-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Redux](https://img.shields.io/badge/Redux%20-%23764ABC.svg?style=for-the-badge&logo=redux&logoColor=white)
 
-<br>
-
 ### **Back-End Development**:
 
 ![Node.js](https://img.shields.io/badge/Node.js%20-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js%20-%23000000.svg?style=for-the-badge&logo=express&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot%20-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-
-<br>
 
 ### **Database**:
 
@@ -73,15 +67,11 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-%23F00000.svg?style=for-the-badge&logo=oracle&logoColor=white)
 
-<br>
-
 ### **Cloud Services & Platforms**:
 
 ![Azure](https://img.shields.io/badge/Azure%20-%230072C6.svg?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS%20-%23232F3E.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/CI%2FCD%20-%23E34F26.svg?style=for-the-badge&logo=ci%2Fcd&logoColor=white)
-
-<br>
 
 ### **Version Control & Management**:
 
@@ -90,8 +80,6 @@
 ![Bitbucket](https://img.shields.io/badge/Bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-%230052CC.svg?style=for-the-badge&logo=jira&logoColor=white)
 ![Agile](https://img.shields.io/badge/Agile-%23000000.svg?style=for-the-badge&logo=agile&logoColor=white)
-
-<br>
 
 ### **QA Tools**:
 
@@ -102,5 +90,11 @@
 ![SoapUI](https://img.shields.io/badge/SoapUI-%2342433A.svg?style=for-the-badge&logo=soapui&logoColor=white)
 
 <br>
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shivam-Dogra&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shivam-Dogra&layout=compact&theme=radical)
+
 
 </p>
