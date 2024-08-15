@@ -13,6 +13,7 @@
 - 💻 Skilled in **Front-end** and **Back-end** development with a strong understanding of **Test Automation** tools.
 - 🚀 Available for a **4- or 8-month internship** starting in **January 2025**.
 
+<br>
 
 ## 🛠️ <b>Projects</b>
 
