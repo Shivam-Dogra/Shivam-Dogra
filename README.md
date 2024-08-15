@@ -35,7 +35,6 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 ## 🚀 <b>Skills</b>
-<br>
 
 <p align="center">
 
@@ -92,9 +91,11 @@
 <br>
 
 ## 📊 GitHub Stats
+## <img src="https://media.giphy.com/media/YWUpgkYDpkj0O53do4/giphy.gif" width="30px"> **Top Languages**
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shivam-Dogra&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shivam-Dogra&layout=compact&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shivam-Dogra&layout=compact&theme=radical" alt="Top Languages" width="400"/>
+</p>
 
 
 </p>
