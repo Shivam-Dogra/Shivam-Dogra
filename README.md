@@ -11,7 +11,6 @@
 - 🎓 Currently pursuing a Master's in Applied Computing at the University of Windsor.
 - 🌱 Open to exploring new opportunities in **Test Automation** and **Web Development**.
 - 💻 Skilled in **Front-end** and **Back-end** development with a strong understanding of **Test Automation** tools.
-- 🚀 Available for a **4- or 8-month internship** starting in **January 2025**.
 
 <br>
 
