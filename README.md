@@ -8,7 +8,7 @@
   </a>
 </p>
 
-- 🏢 🏢 Currently doing an 8-month co-op at Nokia (Jan 2025 - Aug 2025)
+- 🏢 Currently doing an 8-month co-op at Nokia (Jan 2025 - Aug 2025)
 - 🎓 Master's in Applied Computing Student at the University of Windsor.
 - 🌱 Open to exploring new opportunities in **Test Automation** and **Web Development**.
 - 💻 Skilled in **Front-end** and **Back-end** development with a strong understanding of **Test Automation** tools. Knowledge and experience in testing routing protocols and signaling protocols. Proficient in developing and enhancing test automation using Java, Python and TCL.
